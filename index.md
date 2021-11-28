@@ -29,7 +29,11 @@
 
 ## 5
 
-- todo
+- [Design and Analysis of Algorithms](./5/daa.md)
+- [DBMS](5/dbms.md)
+- [Machine Learning](./5/ml.md)
+- [Data Science with Scala](5/scala.md)
+- [Operating Systems](5/os.md)
 
 ## 6
 
