@@ -150,18 +150,18 @@
 
 ## Reference Books
 
-1. Ian Sommerville,
-   **"Software Engineering"**, 
-   Addison Wesley.
-2. Pankaj Jalote
-   **"An Integrated Approach to Software Engineering"**, 
-   Narosa Publishing House.
-3. Carlo Ghezzi, M. Jarayeri, D. Manodrioli,
-   **"Fundamentals of Software Engineering"**, 
-   PHI Publication.
-4. Rajib Mall,
-   **"Fundamentals of Software Engineering"**,
-   PHI Publication.
-5. Pfleeger,
-   **"Software Engineering"**,
-   Macmillan Publication.
+- Ian Sommerville,
+  **"Software Engineering"**, 
+  Addison Wesley.
+- Pankaj Jalote
+  **"An Integrated Approach to Software Engineering"**, 
+  Narosa Publishing House.
+- Carlo Ghezzi, M. Jarayeri, D. Manodrioli,
+  **"Fundamentals of Software Engineering"**, 
+  PHI Publication.
+- Rajib Mall,
+  **"Fundamentals of Software Engineering"**,
+  PHI Publication.
+- Pfleeger,
+  **"Software Engineering"**,
+  Macmillan Publication.

@@ -149,18 +149,18 @@
 
 ## Text Books
 
-1. Ralph Moseley and M. T. Savaliya,
-   **"Developing Web Applications"**,
-   Wiley-India
-2. **"Web Technologies"**,
-   Black Book, dreamtech Press
-3. **"HTML 5"**,
-   Black Book, dreamtech Press
-4. Joel Sklar,
-   **"Web Design"**,
-   Cengage Learning
-5. **"Developing Web Applications in PHP and AJAX"**,
-   Harwani, McGrawHill
-6. P.J. Deitel & H.M.,
-   **"Internet and World Wide Web How to program"**, 
-   Deitel, Pearson
+- Ralph Moseley and M. T. Savaliya,
+  **"Developing Web Applications"**,
+  Wiley-India
+- **"Web Technologies"**,
+  Black Book, dreamtech Press
+- **"HTML 5"**,
+  Black Book, dreamtech Press
+- Joel Sklar,
+  **"Web Design"**,
+  Cengage Learning
+- **"Developing Web Applications in PHP and AJAX"**,
+  Harwani, McGrawHill
+- P.J. Deitel & H.M.,
+  **"Internet and World Wide Web How to program"**, 
+  Deitel, Pearson

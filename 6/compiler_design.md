@@ -111,18 +111,18 @@
 
 ## Text Books
 
-1. Alfred Vaho, Ravi Sethi, Jeffrey Dullman
-   **"Compilers-Principles,Techniques and Tools"**,
-   Education, 2007.
+- Alfred Vaho, Ravi Sethi, Jeffrey Dullman
+  **"Compilers-Principles,Techniques and Tools"**,
+  Education, 2007.
 
 ## Reference Books
 
-1. Charles N. Fischer, Richard J. leBlanc, Jr.
-   **"Crafting a Compiler with C"**,
-   Pearson Education, 1991.
-2. Andrew W Apple
-   **"Modern Compiler Implementation in C"**,
-   Cambridge University Press, 1997.
-3. Kenneth C Louden
-   **"Compiler Construction Principles & Practice"**,
-   Thomson Education, 1997.
+- Charles N. Fischer, Richard J. leBlanc, Jr.
+  **"Crafting a Compiler with C"**,
+  Pearson Education, 1991.
+- Andrew W Apple
+  **"Modern Compiler Implementation in C"**,
+  Cambridge University Press, 1997.
+- Kenneth C Louden
+  **"Compiler Construction Principles & Practice"**,
+  Thomson Education, 1997.

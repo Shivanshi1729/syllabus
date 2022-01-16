@@ -137,24 +137,24 @@
 
 ## Text Books
 
-1. Computer Networking: 
-   **"A Top Down Approach (5th edition)"**, 
-   Ross and Kurose, Pearson/Addison-Wesley
+- Computer Networking: 
+  **"A Top Down Approach (5th edition)"**, 
+  Ross and Kurose, Pearson/Addison-Wesley
 
 ## Reference Books
 
-1. Andrew Tanenbaum and David Wetherhall, 
-   **"Computer Networks(5 th edition)"**,
-   Prentice Hall
-2. Peterson and Davie, 
-   **"Computer Networks: A System Approach (4th edition)"**,
-   Elsevier
-3. Forouzan, 
-   **"Data Communication and Networking (4th edition)"**,
-   McGraw Hill
-4. William Stallings: 
-   **"Data and Computer Communication (8th Edition)"**,
-   Pearson Education, 2007
-5. Nader F. Mir
-   **"Computer and Communication Networks"**,
-   Pearson Education, 2007.
+- Andrew Tanenbaum and David Wetherhall, 
+  **"Computer Networks(5 th edition)"**,
+  Prentice Hall
+- Peterson and Davie, 
+  **"Computer Networks: A System Approach (4th edition)"**,
+  Elsevier
+- Forouzan, 
+  **"Data Communication and Networking (4th edition)"**,
+  McGraw Hill
+- William Stallings: 
+  **"Data and Computer Communication (8th Edition)"**,
+  Pearson Education, 2007
+- Nader F. Mir
+  **"Computer and Communication Networks"**,
+  Pearson Education, 2007.
