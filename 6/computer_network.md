@@ -2,7 +2,6 @@
 
 - [Computer Networks](#computer-networks)
   - [Course Outcomes](#course-outcomes)
-  - [Pre-requisite](#pre-requisite)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
   - [Unit III](#unit-iii)
@@ -26,10 +25,6 @@
    for the requirements of Transport Layer
 6. Describe the essential principles of Network Layers and use IP addressing
    to create subnets for any specific requirements.
-
-## Pre-requisite
-
-- ew
 
 ## Unit I
 

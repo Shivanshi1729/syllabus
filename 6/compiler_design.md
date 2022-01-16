@@ -1,7 +1,6 @@
 # Compiler Design
 
 - [Compiler Design](#compiler-design)
-  - [Pre-requisite](#pre-requisite)
   - [Course Outcomes](#course-outcomes)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
@@ -10,10 +9,6 @@
   - [Unit V](#unit-v)
   - [Text Books](#text-books)
   - [Reference Books](#reference-books)
-
-## Pre-requisite
-
-- TCS-402
 
 ## Course Outcomes
 

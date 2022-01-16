@@ -1,7 +1,6 @@
 # Software Engineering
 
 - [Software Engineering](#software-engineering)
-  - [Pre-requisite:](#pre-requisite)
   - [Course Outcomes](#course-outcomes)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
@@ -10,10 +9,6 @@
   - [Unit V](#unit-v)
   - [Text Books](#text-books)
   - [Reference Books](#reference-books)
-
-## Pre-requisite: 
-
-- Basics of Programming
 
 ## Course Outcomes
 

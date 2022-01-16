@@ -133,5 +133,3 @@
   - Deep Deterministic Policy Gradients (DDPG), 
   - Motey Carlo Methods, 
   - OpenAI Gym.
-
-

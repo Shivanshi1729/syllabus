@@ -7,7 +7,7 @@
   - [Unit II](#unit-ii-1)
   - [Unit IV](#unit-iv)
   - [Unit V](#unit-v)
-- [Text Books:](#text-books)
+  - [Text Books](#text-books)
 
 ## Course Outcomes
 
@@ -147,7 +147,7 @@
 - AngularJS, 
 - JSON.
 
-# Text Books:
+## Text Books
 
 1. Ralph Moseley and M. T. Savaliya,
    **"Developing Web Applications"**,

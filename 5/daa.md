@@ -1,11 +1,31 @@
 # Design and analysis of algorithms
 
 - [Design and analysis of algorithms](#design-and-analysis-of-algorithms)
+  - [Course Outcome](#course-outcome)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
   - [Unit III](#unit-iii)
   - [Unit IV](#unit-iv)
   - [Unit V](#unit-v)
+  - [Text Books](#text-books)
+  - [Reference Books](#reference-books)
+
+## Course Outcome
+
+1. Discuss various asymptotic notations to analyze time and 
+   space complexity of algorithms
+2. Analyze the various paradigms for designing efficient 
+   algorithms using concepts of design and conquer,
+   greedy and dynamic programming techniques
+3. Provide solutions to complex problems using the concept 
+   of back tracking and branch and bound techniques.
+4. Apply algorithm design techniques to predict the complexity 
+   of certain NP complete problems.
+5. Implement Dijkstra’s, Bellman-ford, Prims, Kruskal’s algorithms 
+   to solve the real world problems like traveling salesman problem,
+   job sequencing, packet routing etc
+6. Apply pattern matching algorithms like Rabin Karp Algorithm, 
+   Brute-force techniques etc to find a particular pattern.
 
 ## Unit I
 
@@ -98,3 +118,20 @@
   - The subset-sum problem, 
   - The traveling salesman problem
 
+## Text Books
+
+- Thomas H. Cormen, Charles E. Leiserson, Ronal L. Rivest, Clifford Stein:
+  **"Introduction to Algorithms"**, 
+  2nd Edition, PHI, 2006.
+
+## Reference Books
+
+- Donald E.Knuth:
+  **"The Art of Computer Programming: Volume 1: Fundamental Algorithms"**,
+  3 Edition
+- Ellis Horowitz, Sartaj Sahni, SanguthevarRajasekaran:
+  **"Fundamentals of Computer Algorithms"**, 
+  2nd Edition, University press, 2007.
+- Anany Levitin: 
+  **"Introduction to the Design & Analysis of Algorithms"**, 
+  2nd Edition, Pearson Education, 2007.

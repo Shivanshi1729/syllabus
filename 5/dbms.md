@@ -1,11 +1,22 @@
 # Database management system 
 
 - [Database management system](#database-management-system)
+  - [Course Outcomes](#course-outcomes)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
   - [Unit III](#unit-iii)
   - [Unit IV](#unit-iv)
   - [Unit V](#unit-v)
+  - [Text Books](#text-books)
+
+## Course Outcomes
+
+1. Identify the different issues involved in the design and implementation of a database system.
+2. Identify the physical and logical database designs, database modeling, relational, 
+   hierarchical, and network models
+3. Recognize and use data manipulation language to query, update, and manage a database.
+4. Develop an understanding of essential DBMS concepts such as: database security, integrity, concurrency,
+5. Design and build a simple database system and demonstrate competence with the fundamental
 
 ## Unit I
 
@@ -100,4 +111,14 @@
   - Recovering from a System Crash; 
   - Media Recovery
 
+## Text Books
 
+- Elmasri and Navathe 
+  **"Fundamentals of Database Systems"**,
+  5 th Edition, Pearson Education, 2007.
+- Karth, silbertz,Silberschatz,
+  **"Database Concepts"**,
+  McGraw Hill.
+- Raghu Ramakrishnan and Johannes Gehrke
+  "Database Management Systems",
+  McGraw-Hill.

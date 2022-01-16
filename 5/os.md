@@ -1,11 +1,24 @@
 # Operating System
 
 - [Operating System](#operating-system)
+  - [Course Outcome](#course-outcome)
   - [Unit I](#unit-i)
   - [Unit II](#unit-ii)
   - [Unit III](#unit-iii)
   - [Unit IV](#unit-iv)
   - [Unit V](#unit-v)
+  - [Text Books](#text-books)
+  - [Reference Books](#reference-books)
+
+## Course Outcome
+
+1. Understand the concept and design issues associated with an operating system
+2. Identify the problems related to process management and synchronization and apply 
+   learned methods to solve basic problems
+3. Explain the basics of memory management and the use of virtual memory in modern operating systems.
+4. Understand the concept deadlock avoidance, prevention and detections techniques.
+5. Implementation of process management, memory management and file management using system calls.
+6. Analyze the data structures and algorithms used for developing an operating systems
 
 ## Unit I
 
@@ -122,4 +135,22 @@
     - Input and output; 
     - Inter-process communication. 
 
+## Text Books
 
+- Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
+  **"Operating System Principles"**,
+  7 th edition, Wiley India, 2006.
+- William Stallings
+  **"Operating Systems: Internals and Design Principles"**
+  6 th edition, Pearson, 2009
+- Sumitabha Das,
+  **"Unix concepts and applications"**
+
+## Reference Books
+
+- Andrew S Tanenbaum
+  **"Operating Systems: Design and Implementation"**,
+  3 rd edition, Prentice Hall, 2006
+- Stuart E. 
+  **"Madnick, John Donovan: Operating Systems"**,
+  Tata McGraw Hill, 2008

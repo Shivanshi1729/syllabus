@@ -45,8 +45,16 @@
 
 ## Unit III
 
-- Conditional statements (if statement, if-else statement , nested if-else statement).
-- Loops – types of ‘for’ loops, ‘while’ loops, ‘do while’ loops, entry control and exit control, break and continue nested loops.
+- Conditional statements 
+  - if statement, 
+  - if-else statement ,
+  - nested if-else statement
+- Loops 
+  - types of 'for' loops,
+  - while loops,
+  - do while loops, 
+  - entry control and exit control, 
+  - break and continue nested loops.
 
 ## Unit IV
 
@@ -70,5 +78,3 @@
 - Extractors, 
 - File I/O, 
 - Type Classes
-
-
