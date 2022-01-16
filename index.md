@@ -12,19 +12,30 @@
 
 ## First Semester
 
-- TODO
+- [C Programming Basics](1/programming-C-1.md)
+- [Engineering Mathematics I](./1/math1.md)
 
 ## Second Semester
 
-- TODO
+- [C & Python](2/programming-c-2.md)
+- [Engineering Mathematics II](2/math2.md)
 
 ## Third Semester
 
-- TODO
+- [C++](./3/cpp.md)
+- [Data Science](./3/data-science.md)
+- [Data Structures](./3/data-data-structures.md)
+- [Discrete Mathematics](./3/discrete-math.md)
+- [Logic Design](./3/logic-design.md)
 
 ## Fourth Semester
 
-- TODO
+- [Computer based Numerical and Statistical Techniques](./4/cbnst.md)
+- [Computer Organization](./4/computer-organization.md)
+- [Finite Automata](./4/finite-automata.md)
+- [Hadoop](./4/hadoop.md)
+- [Java](./4/java.md)
+- [Microprocessor](./4/microprocessor.md)
 
 ## Fifth Semester
 
