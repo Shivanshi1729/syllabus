@@ -1,5 +1,12 @@
 # Machine Learning
 
+- [Machine Learning](#machine-learning)
+  - [Unit I](#unit-i)
+  - [Unit II](#unit-ii)
+  - [Unit III](#unit-iii)
+  - [Unit IV](#unit-iv)
+  - [Unit V](#unit-v)
+
 ## Unit I
 
 - Review of Statistical Concepts: 

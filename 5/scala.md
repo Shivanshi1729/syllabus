@@ -1,5 +1,12 @@
 # Scala
 
+- [Scala](#scala)
+  - [Unit I](#unit-i)
+  - [Unit II](#unit-ii)
+  - [Unit III](#unit-iii)
+  - [Unit IV](#unit-iv)
+  - [Unit V](#unit-v)
+
 ## Unit I
 
 - Introduction to Scala – 

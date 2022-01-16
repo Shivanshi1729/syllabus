@@ -1,29 +1,32 @@
 # Syllabus
 
-## Index
+- [Syllabus](#syllabus)
+  - [First Semester](#first-semester)
+  - [Second Semester](#second-semester)
+  - [Third Semester](#third-semester)
+  - [Fourth Semester](#fourth-semester)
+  - [Fifth Semester](#fifth-semester)
+  - [Sixth Semester](#sixth-semester)
+  - [Seventh Semester](#seventh-semester)
+  - [Eighth Semester](#eighth-semester)
 
-| **First year**  | [1](#1) | [2](#2) |
-| **Second year** | [3](#3) | [4](#4) |
-| **Third Year**  | [5](#5) | [6](#6) |
-| **Fourth Year** | [7](#7) | [8](#8) |
+## First Semester
 
-## 1
+- TODO
 
-- todo
+## Second Semester
 
-## 2
+- TODO
 
-- todo
+## Third Semester
 
-## 3
+- TODO
 
-- todo
+## Fourth Semester
 
-## 4
+- TODO
 
-- todo
-
-## 5
+## Fifth Semester
 
 - [Design and Analysis of Algorithms](./5/daa.md)
 - [DBMS](5/dbms.md)
@@ -31,12 +34,17 @@
 - [Data Science with Scala](5/scala.md)
 - [Operating Systems](5/os.md)
 
-## 6
+## Sixth Semester
 
-- todo
+- [Compiler Design](./6/compiler_design.md)
+- [Computer Networks](./6/computer_network.md)
+- [Web Development](./6/web_dev.md)
+- [Software Engineering](./6/software_engineering.md)
 
-## 7
+## Seventh Semester
 
-- todo
+- TODO
 
-## 8
+## Eighth Semester
+
+- TODO

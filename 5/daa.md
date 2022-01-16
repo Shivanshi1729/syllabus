@@ -1,5 +1,12 @@
 # Design and analysis of algorithms
 
+- [Design and analysis of algorithms](#design-and-analysis-of-algorithms)
+  - [Unit I](#unit-i)
+  - [Unit II](#unit-ii)
+  - [Unit III](#unit-iii)
+  - [Unit IV](#unit-iv)
+  - [Unit V](#unit-v)
+
 ## Unit I
 
 - Asymptotic Notations and Searching Algorithms 
