@@ -24,7 +24,7 @@
 
 - [C++](./3/cpp.md)
 - [Data Science](./3/data-science.md)
-- [Data Structures](./3/data-data-structures.md)
+- [Data Structures](./3/data-structures.md)
 - [Discrete Mathematics](./3/discrete-math.md)
 - [Logic Design](./3/logic-design.md)
 
