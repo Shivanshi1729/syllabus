@@ -51,6 +51,7 @@
 - [Computer Networks](./6/computer_network.md)
 - [Web Development](./6/web_dev.md)
 - [Software Engineering](./6/software_engineering.md)
+- [Artificial Intelligence](./6/ai.md)
 
 ## Seventh Semester
 
