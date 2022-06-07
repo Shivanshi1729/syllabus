@@ -1,14 +1,19 @@
+---
+layout: default
+title: Finite Automata and Formal Languages
+parent: 4
+---
+
 # Finite Automata and Formal Languages
 
-- [Finite Automata and Formal Languages](#finite-automata-and-formal-languages)
-  - [Course Outcome](#course-outcome)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Book](#text-book)
-  - [Reference Books](#reference-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Course Outcome
 

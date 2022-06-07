@@ -1,14 +1,19 @@
+---
+layout: default
+title: Computer Networks
+parent: 6
+---
+
 # Computer Networks
 
-- [Computer Networks](#computer-networks)
-  - [Course Outcomes](#course-outcomes)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Books](#text-books)
-  - [Reference Books](#reference-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Course Outcomes
 

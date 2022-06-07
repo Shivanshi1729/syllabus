@@ -1,13 +1,19 @@
+---
+layout: default
+title: Engineering Mathematics I
+parent: 1
+---
+
 # Engineering Mathematics I
 
-- [Engineering Mathematics I](#engineering-mathematics-i)
-  - [Course Outcomes](#course-outcomes)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Books](#text-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Course Outcomes
 

@@ -1,14 +1,19 @@
+---
+layout: default
+title: Logic Design 
+parent: 3
+---
+
 # Logic Design 
 
-- [Logic Design](#logic-design)
-  - [Course Outcomes](#course-outcomes)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Book:](#text-book)
-  - [Reference Books:](#reference-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Course Outcomes
 

@@ -1,11 +1,19 @@
+---
+layout: default
+title: Data science
+parent: 3
+---
+
 # Data science
 
-- [Data science](#data-science)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Unit I
 

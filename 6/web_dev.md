@@ -1,13 +1,19 @@
+---
+layout: default
+title: Web Development
+parent: 6
+---
+
 # Web Development
 
-- [Web Development](#web-development)
-  - [Course Outcomes](#course-outcomes)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit II](#unit-ii-1)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Books](#text-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Course Outcomes
 

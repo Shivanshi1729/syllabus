@@ -1,15 +1,19 @@
+---
+layout: default
+title: Hadoop Fundamentals
+parent: 4
+---
+
 # Hadoop Fundamentals
 
-- [Hadoop Fundamentals](#hadoop-fundamentals)
-  - [Prerequisites](#prerequisites)
-  - [Course Outcome](#course-outcome)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit III](#unit-iii)
-  - [Unit IV](#unit-iv)
-  - [Unit V](#unit-v)
-  - [Text Book](#text-book)
-  - [Reference Books](#reference-books)
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Prerequisites
 

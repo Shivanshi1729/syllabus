@@ -1,15 +1,19 @@
+---
+layout: default
+title: Discrete Structures and Combinatorics
+parent: 3
+---
+
 # Discrete Structures and Combinatorics
 
-- [Discrete Structures and Combinatorics](#discrete-structures-and-combinatorics)
-  - [Course Outcomes](#course-outcomes)
-  - [Unit I](#unit-i)
-  - [Unit II](#unit-ii)
-  - [Unit 3](#unit-3)
-  - [Unit 4](#unit-4)
-  - [Unit 5](#unit-5)
-  - [Text Books](#text-books)
-  - [Reference Books](#reference-books)
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 ## Course Outcomes
 
 1. Be able to specify and manipulate basic mathematical objects 
