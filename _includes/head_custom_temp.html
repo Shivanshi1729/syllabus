@@ -1,0 +1,29 @@
+{% if page.mathjax %}
+  <!-- <script type="text/x-mathjax-config">
+    {{ site.mathjax.config }};
+    MathJax.Hub.Config(
+      { 
+        TeX: {  
+          inlineMath: [['$', '$'], ['\\(', '\\)']], 
+          equationNumbers: { autoNumber: "AMS" } 
+        } 
+      }
+    );
+  </script> -->
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+  </script>
+  <script type="text/javascript" async 
+    src="{{ site.mathjax.source }}">
+  </script>
+{% endif %}
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu&family=Ubuntu+Mono&display=swap');
+</style>

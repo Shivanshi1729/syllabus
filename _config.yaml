@@ -46,7 +46,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Notes":
+  "Syllabus":
     - "//github.com/shivanshi1729/syllabus"
 
 # Makes Aux links open in a new tab. Default is false
